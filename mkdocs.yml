@@ -1,0 +1,7 @@
+site_name: Flask-RESTPlus
+site_url: https://flaskrestplus.com
+nav: 
+  - Home: index.md
+  - Installation: installation.md
+  - Quick start: quickstart.md
+theme: readthedocs
